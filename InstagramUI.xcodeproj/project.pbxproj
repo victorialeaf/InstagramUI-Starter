@@ -123,7 +123,7 @@
 				TargetAttributes = {
 					527BDDD51E6A812100A1075D = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 593ZXM85A3;
+						DevelopmentTeam = MMGHEJBD7N;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -289,7 +289,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 593ZXM85A3;
+				DEVELOPMENT_TEAM = MMGHEJBD7N;
 				INFOPLIST_FILE = InstagramUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.ductran.InstagramUI;
@@ -302,7 +302,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 593ZXM85A3;
+				DEVELOPMENT_TEAM = MMGHEJBD7N;
 				INFOPLIST_FILE = InstagramUI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.ductran.InstagramUI;
